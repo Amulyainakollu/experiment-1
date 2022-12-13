@@ -1,4 +1,0 @@
-c=int(input())
-d=int(input())
-e=c+d
-print(e)
